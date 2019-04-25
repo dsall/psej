@@ -1,0 +1,40 @@
+.Main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.Page {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.logo{
+    top: 0%;
+    width: 100px;
+    height: 50px;
+}
+.card{
+    width: 100%;
+}
+
+.horizontal {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.Date {
+    margin-top: 20px;
+}
+.table {
+    margin-top: 20px;
+}
+.img-responsive{
+    display: block;
+    max-width: 40%;
+    height: auto;
+  }

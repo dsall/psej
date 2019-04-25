@@ -1,0 +1,15 @@
+{
+  "short_name": "PSEJ",
+  "name": "PSEJ Checkin Website",
+  "icons": [
+    {
+      "src": "psej.png",
+      "sizes": "64x64 48x48 32x32 20x20",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
